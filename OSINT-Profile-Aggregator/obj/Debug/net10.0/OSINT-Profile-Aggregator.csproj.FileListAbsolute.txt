@@ -1,0 +1,15 @@
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.AssemblyInfoInputs.cache
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.AssemblyInfo.cs
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\bin\Debug\net10.0\OSINT-Profile-Aggregator.exe
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\bin\Debug\net10.0\OSINT-Profile-Aggregator.deps.json
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\bin\Debug\net10.0\OSINT-Profile-Aggregator.runtimeconfig.json
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\bin\Debug\net10.0\OSINT-Profile-Aggregator.dll
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\bin\Debug\net10.0\OSINT-Profile-Aggregator.pdb
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.dll
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\refint\OSINT-Profile-Aggregator.dll
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.pdb
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\OSINT-Profile-Aggregator.genruntimeconfig.cache
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\obj\Debug\net10.0\ref\OSINT-Profile-Aggregator.dll
+C:\Users\ginag\OSINT-Profile-Aggregator\OSINT-Profile-Aggregator\bin\Debug\net10.0\profiles.json

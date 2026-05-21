@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "OSINT-Profile-Aggregator/1.0.0": {
+        "runtime": {
+          "OSINT-Profile-Aggregator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSINT-Profile-Aggregator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
